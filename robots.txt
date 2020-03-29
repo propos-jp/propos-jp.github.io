@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: propos-jp.giyhub.io/sitemap.xml
