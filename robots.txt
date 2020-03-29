@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: propos-jp.giyhub.io/sitemap.xml
+Sitemap: https://propos-jp.giyhub.io/sitemap.xml
